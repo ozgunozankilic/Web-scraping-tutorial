@@ -1,3 +1,7 @@
 # Web scraping tutorial
 
-This is a short tutorial I created for our research group in the past. The code may not work now as websites commonly change their page structures. Note that this tutorial is created for educational purposes, and web scraping should be handled carefully.
+This is the code I wrote and used during a short tutorial I created for our research group in the past. It mainly uses Python and Selenium. The code may not work now as websites commonly change their page structures. Note that this is for educational purposes only, and web scraping should be handled carefully.
+
+There are two notebooks:
+*   web_scraping_basics.ipynb: Some basics are explained and applied using an actual real estate website.
+*   google_automation.ipynb: Scraping information from Google snippets is explained.
